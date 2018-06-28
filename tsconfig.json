@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./web",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es5",
+    "jsx": "react",
+    "baseUrl": "./assets/app"
+  },
+  "include": [
+    "./assets/**/*"
+  ]
+}
